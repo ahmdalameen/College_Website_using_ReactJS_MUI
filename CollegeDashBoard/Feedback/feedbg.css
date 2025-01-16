@@ -1,0 +1,25 @@
+.feed{
+   
+    background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/04/Best-Website-New-Wallpaper.jpg');
+      background-size: cover;
+      color: white;
+      width: 400px;
+      border-radius: 10px;
+      box-shadow: 0px 2px 5px black;
+      margin-left: 70px;
+      height: 500px;
+  }
+  
+  
+  
+  .submit{
+      background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: -10px;
+  }

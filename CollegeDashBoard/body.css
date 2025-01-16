@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(to bottom, #CCEEFF, #00AAFF, #0088CC, #006699, #004466);
+     /* background-image: url('https://t3.ftcdn.net/jpg/01/16/21/94/360_F_116219414_UGYXToughIOvWsEIpP1RTJqzi34P98VT.jpg'); */
+     
+    
+     background-image: url('https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg');
+     /* background-image: url(''); */
+     background-size: cover;
+    background-repeat:repeat;
+}
+
+.feed{
+   
+    background-image: url('https://images.freecreatives.com/wp-content/uploads/2016/04/Best-Website-New-Wallpaper.jpg');
+      background-size: cover;
+      color: white;
+      width: 400px;
+      border-radius: 10px;
+      box-shadow: 0px 2px 5px black;
+      margin-left: 70px;
+      height: 500px;
+  }
+  
+  
+  
+  .submit{
+      background-color: #04AA6D; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: -10px;
+  }

@@ -1,0 +1,11 @@
+.first{
+    border-radius: 40px;
+
+
+}
+.wholefirst{
+    display: flex;
+    justify-content: center;
+
+    
+}

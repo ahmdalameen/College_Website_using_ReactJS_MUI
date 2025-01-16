@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.firstimg{
+    border-radius: 40px;
+    box-shadow: 0px 6px 20px ;
+
+
+}
+
+.para{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+.icontext1 h3{
+    
+    margin-left: 30px;
+    margin-top: -32px;
+}
+.icontext h3{
+margin-left: 30px;
+margin-top: -32px;
+
+}
+
+.icontext{
+    display: flex;
+flex-wrap: nowrap;
+}
+
+.sts{
+    margin-left: 100px;
+    margin-top: -60px;
+}

@@ -1,0 +1,8 @@
+.body{
+    background-image: url('../asset/gradutes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset;
+    box-shadow: 0px 0px 50px white ;
+
+}
